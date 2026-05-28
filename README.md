@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse-Project
-Building a data warehouse project using MySQL.
+Building a data warehouse project using Microsoft Sql Server.
