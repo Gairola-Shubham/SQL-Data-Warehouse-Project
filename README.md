@@ -16,7 +16,7 @@ The project integrates data from multiple CRM and ERP source systems, performs E
 
 ## Architecture
 
-<img width="1182" height="667" alt="image" src="https://github.com/user-attachments/assets/3249456b-9f9d-492f-bb0d-162a42a7a800" />
+<img width="1182" height="667" alt="image" src="docs/Data Architecture.jpeg" />
 
 ---
 
