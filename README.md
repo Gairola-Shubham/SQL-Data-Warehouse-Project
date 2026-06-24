@@ -290,7 +290,7 @@ The design follows a **Star Schema**.
 
 ## Star Schema
 
-<img width="1016" height="671" alt="image" src="https://github.com/user-attachments/assets/2699e407-660c-4529-8729-d77c476499ac" />
+<img width="1016" height="671" alt="image" src="docs/Data Model.jpeg" />
 
 ---
 
