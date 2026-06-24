@@ -22,7 +22,7 @@ The project integrates data from multiple CRM and ERP source systems, performs E
 
 ## Data Flow
 
-<img width="986" height="559" alt="image" src="https://github.com/user-attachments/assets/7741241b-9c61-4104-9819-11b59307b76f" />
+<img width="986" height="559" alt="image" src="docs/Data Flow.jpeg" />
 
 ---
 
@@ -538,19 +538,3 @@ tests/quality_checks_gold.sql
 * CSV Files
 * Data Warehouse Modeling
 
----
-
-# Key Skills Demonstrated
-
-* Data Warehouse Design
-* ETL Pipeline Development
-* Data Modeling
-* Star Schema Design
-* Data Quality Management
-* Data Cleansing
-* SQL Performance Concepts
-* Business Data Integration
-* Dimensional Modeling
-* Data Engineering Fundamentals
-
----
